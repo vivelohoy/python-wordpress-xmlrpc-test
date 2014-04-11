@@ -1,0 +1,2 @@
+ipython
+git+git://github.com/tothebeat/python-wordpress-xmlrpc.git
