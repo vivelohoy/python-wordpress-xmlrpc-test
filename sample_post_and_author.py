@@ -30,5 +30,5 @@ print('''
 /_/  |_\__,_/\__/_/ /_/\____/_/     
 
 ''')
-print_object(sample_post)
+print_object(post_author)
 
