@@ -3,6 +3,8 @@ python-wordpress-xmlrpc-test
 
 Testing the [python-wordpress-xmlrpc](https://github.com/tothebeat/python-wordpress-xmlrpc) module against [wordpress.hoylabs.com](http://wordpress.hoylabs.com) to see what kind of metadata is returned.
 
+Read more about the original [python-wordpress-xmlrpc](http://python-wordpress-xmlrpc.readthedocs.org/en/latest/index.html) module (the one used in this repository is forked to handle international characters) and the [WordPress XML-RPC API](http://codex.wordpress.org/XML-RPC_WordPress_API) itself.
+
 # Getting Started
 
 Create a virtualenv and install from the requirements file.
